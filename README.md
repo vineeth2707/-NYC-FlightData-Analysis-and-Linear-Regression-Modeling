@@ -35,7 +35,7 @@ The notebook is structured as follows:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/nyc-flights-analysis.git
+   https://github.com/vineeth2707/-NYC-FlightData-Analysis-and-Linear-Regression-Modeling/blob/main/NYC_Flights_Data_Analysis_and_Linear_Regression_Modeling.ipynb
    ```
 2. Navigate to the directory:
    ```bash
