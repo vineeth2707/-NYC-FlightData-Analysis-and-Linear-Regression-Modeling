@@ -32,23 +32,6 @@ The notebook is structured as follows:
 - Data Transformation: Creating new DataFrames and applying filters.
 - Descriptive Statistics: Calculating medians and summarizing data.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   https://github.com/vineeth2707/-NYC-FlightData-Analysis-and-Linear-Regression-Modeling/blob/main/NYC_Flights_Data_Analysis_and_Linear_Regression_Modeling.ipynb
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd nyc-flights-analysis
-   ```
-3. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook:
-   ```bash
-   NYC Flights Data Analysis and Linear Regression Modeling.ipynb
-   ```
 
 ## Requirements
 - Python 3.x
