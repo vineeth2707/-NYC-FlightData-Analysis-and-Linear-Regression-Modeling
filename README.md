@@ -47,7 +47,7 @@ The notebook is structured as follows:
    ```
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Saivineeth_Suram_Assignment3.ipynb
+   NYC Flights Data Analysis and Linear Regression Modeling.ipynb
    ```
 
 ## Requirements
